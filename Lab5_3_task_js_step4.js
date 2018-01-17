@@ -1,0 +1,3 @@
+auth: { 
+    bearer: this.accessToken 
+}
